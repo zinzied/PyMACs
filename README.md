@@ -15,10 +15,9 @@ A Python script that generates random MAC addresses and saves them to a text fil
 
 1. Clone this repository: `git clone https://github.com/zinzied/PyMACs.git`
 2. Navigate to the project directory: `cd PyMACs`
-3. install Colorama Library: `pip install colorama`
-4. Run the script: `python PyMACs.py`
-5. Enter the number of MAC addresses you want to generate when prompted.
-6. The generated MAC addresses will be saved to a file named `generated.txt`.
+3. Run the script: `python PyMACs.py`
+4. Enter the number of MAC addresses you want to generate when prompted.
+5. The generated MAC addresses will be saved to a file named `generated.txt`.
 
 ## Contributing
 
