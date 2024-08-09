@@ -12,7 +12,7 @@ A Python script that generates random MAC addresses and saves them to a text fil
 
 ## Usage
 
-1. Clone this repository: `git clone https://github.com/your-username/random-mac-address-generator.git`
+1. Clone this repository: `git clone https://github.com/zinzied/PyMACs.git`
 2. Navigate to the project directory: `cd random-mac-address-generator`
 3. install Colorama Library: `pip install colorama`
 4. Run the script: `python mac_address_generator.py`
