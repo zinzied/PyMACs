@@ -1,3 +1,9 @@
+"""
+This script generates a specified number of random MAC addresses and saves them to a text file.
+
+Author: Zied Boughdir 2024
+Email: Ziedboughdir@gmail.com
+"""
 from Banner import banner
 import random
 from colorama import Fore, Style, init
